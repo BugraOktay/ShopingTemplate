@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.YazDonemi" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#673AB7</item><!-- Ana Renk , Üstbar renk, vurgulayaıcı renk -->
+        <item name="colorPrimaryDark">#673AB7</item>
+        <item name="colorAccent">#FF5722</item>
+    </style>
+</resources>

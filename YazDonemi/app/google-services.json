@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941552605402",
+    "project_id": "yazdonemi-883ca",
+    "storage_bucket": "yazdonemi-883ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941552605402:android:7f62ac8df0a8c627b9ade3",
+        "android_client_info": {
+          "package_name": "com.example.yazdonemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDay7czuWLhM_NlvWXrG4uz2tBazWzKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
