@@ -18,3 +18,5 @@ This project is an e-commerce app template for Android. It includes basic e-comm
 - RecyclerView
 - ViewPager2
 - CardView
+![Description]([URL-to-image](https://github.com/BugraOktay/ShopingTemplate/blob/main/Screenshot_1726145843.png))
+![Description]([URL-to-image](https://github.com/BugraOktay/ShopingTemplate/blob/main/Screenshot_1726145867.png))
